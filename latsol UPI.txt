@@ -1,0 +1,9 @@
+seorang penjual buku pelajaran SMK berusaha menarik pembeli dengan ketentuan sebagai berikut :
+- jika jumlah buku yang dibeli lebih kecil atau sama dengan 100 eksemplar, maka tidak ada diskon
+- jika jumlah yang dibeli lebih besar dari 100 dan kurang dari atau sama dengan 200 eksemplar, maka untuk 100 eksemplar yang pertama mendapat diskon 5%, sedangkan sisanya mendapat diskon 15%
+- jika jumlah buku yang dibeli lebih besar dari 200 eksemplar, maka 00 eksemplar pertama diskon 7%, 100 eksemplar kedua diskon 17% dan sisanya diskon 27%
+- jika harga satu eksemplar buku Rp. 5000, buatlah program untuk menentukan harga total yang harus dibayar dengan inputan berupa jumlah buku yang dibeli
+
+latihan soal dari UPI (Universitas Pendidikan Indonesia)
+
+100 eksemplar = 10 buku
